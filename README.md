@@ -1,2 +1,6 @@
-# freebedo.github.io
-New website - The Coffee House Family 
+
+# Welcome
+
+This is my personal site.
+
+More articles coming soon.
